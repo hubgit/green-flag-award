@@ -1,0 +1,12 @@
+{
+    "name": "hubgit/green-flag-award",
+    "authors": [
+        {
+            "name": "Alf Eaton",
+            "email": "eaton.alf@gmail.com"
+        }
+    ],
+    "require": {
+        "hubgit/web-resource": "^0.4.0"
+    }
+}
